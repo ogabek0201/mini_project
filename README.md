@@ -1,3 +1,5 @@
+![image](https://github.com/ogabek0201/mini_project/assets/76640273/d1ace725-df21-4e18-baa3-2ee3e917f4ba)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
